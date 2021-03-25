@@ -1,2 +1,4 @@
 # ignore help dir
 help/
+# ignore __pycahce__ dir
+__pycache__/
